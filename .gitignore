@@ -246,3 +246,5 @@ cython_debug/
 *.sql
 
 *.pdf
+
+create_connect_bd.py
