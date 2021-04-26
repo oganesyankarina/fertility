@@ -242,3 +242,7 @@ dmypy.json
 cython_debug/
 
 *.html
+
+*.sql
+
+*.pdf
